@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available-gh.d
+!/.config/mr/available-gh.d/mr-gh-vcsh.mrconfig
+!/.config/mr/available-gh.d/zsh-prezto-git.mrconfig
+!/.config/mr/available-gh.d/zsh-vcsh.mrconfig
+!/.gitignore.d
+!/.gitignore.d/mr-gh
