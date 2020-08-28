@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/mr-gh.git]
-checkout = git clone git@github.com:joergebertz/vcsh-mr-gh.git $HOME/.config/vcsh/repo.d/mr-gh.git
+checkout = vcsh clone git@github.com:joergebertz/vcsh-mr-gh.git
