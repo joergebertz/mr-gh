@@ -7,3 +7,4 @@
 !/.config/mr/available-gh.d/zsh-vcsh.mrconfig
 !/.gitignore.d
 !/.gitignore.d/mr-gh
+!/.mrconfig
